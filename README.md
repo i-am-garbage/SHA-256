@@ -1,0 +1,4 @@
+# SHA-256
+在课程学习时，我完成了SHA-256算法的C语言实现，希望它能帮助您学习SHA-256算法！ 本代码使用Microsoft Visual Studio 2022编写，能够在Microsoft Visual Studio顺利运行，具体而言，您只需要打开SHA_2工程化.sln文件，运行test文件即可。 更改aaa.test中的内容可以改变明文。 若您使用的是其它编译器，aaa.txt、sha2.c、sha2.h、test.c四个文件也可以在其它编译器运行。 若此代码帮助到了您，希望您能给个star，这对我很重要！
+
+In the course of study, I completed the C language implementation of SHA-256 algorithm, I hope it can help you learn SHA-256 algorithm! This code is written in Microsoft Visual Studio 2022 and can run smoothly in Microsoft Visual Studio, specifically, you only need to open the SHA_2工程化.sln file and run the test file. Changing the contents of aa.test can change the plaintext. If you are using another compiler, aaa.txt, sha2.c, sha2.h, test.c can also be run in other compilers. If this code helps you, I hope you can give a star, it is very important to me!
